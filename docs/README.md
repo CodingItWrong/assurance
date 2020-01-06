@@ -2,7 +2,7 @@
 
 There is a view on Christian assurance of salvation that says “even though you’ve believed in Jesus, if you aren’t producing fruit, it shows that you were never really saved.” How exactly can this be? There are a range of different views that people who say this will take. Each of them runs into problems Biblically, and, to attempt to prevent this, supporters will take leaps that have logical problems as well.
 
-I’ve seen four different sub-views of this view. The differences between them are subtle, but important.
+I’ve seen three different sub-views of this view that differ on the exact relationship between faith and works. The differences between the views are subtle, but important.
 
 ## Faith-Plus
 The “faith-plus” view says that there is a requirement for justification in addition to faith: repentance, or submission to Christ’s Lordship. In the last few decades this is most promoted by John MacArthur’s Lordship Salvation movement.
@@ -23,7 +23,11 @@ A third view avoids the problems of the first view by clarifying that the faith 
 
 What exactly the standard of fruit is isn’t clear, however. Few who take this view would argue that Christians always bear fruit perfectly (never sin), so what sin is allowed before justification is brought into question? Is it only some “larger” or “more serious” sins? Is it recurring sins rather than one-time? Is it only “intentional” sins? Scripture doesn’t provide a clear answer, so proponents of this view are left to make their own decision about what is or isn’t allowed.
 
-Whatever decision is made about how serious the sin is, this view runs into a problem with verses that describe Christians who have significant struggles with sin. In Romans 7, Paul describes how his desire to do good wars with sin within him that makes him desire to do evil. In a Calvinist view that I and the advocates of fruit-as-evidence share, this passage can’t refer to Paul in his unsaved state, because unregenerate people don’t desire to do good. In Paul, 1 Corinthians 3 addresses an audience he clearly says are saved (“brethren,” “in Christ”), yet are described as being fleshly/carnal. They are characterized by a lifestyle of not producing fruit, yet they are still saved.
+Whatever decision is made about how serious the sin is, this view runs into a problem with verses that describe Christians who have significant struggles with sin. In Romans 7, Paul describes how his desire to do good wars with sin within him that makes him desire to do evil. In a Calvinist view that I and the advocates of fruit-as-evidence share, this passage can’t refer to Paul in his unsaved state, because unregenerate people don’t desire to do good. In Paul, 1 Corinthians 3 addresses an audience he clearly says are saved (“brethren,” “in Christ”), yet are described as being fleshly/carnal (emphasis mine):
+
+> And I, *brethren*, could not speak to you as to spiritual men, but as to men of flesh, as to infants *in Christ*. I gave you milk to drink, not solid food; for you were not yet able to receive it. Indeed, even now you are not yet able, for you are still *fleshly*. For since there is jealousy and strife among you, are you not *fleshly*, and are you not walking like mere men?
+
+Paul's audience is characterized by a lifestyle of not producing fruit, yet they are still saved.
 
 Both in 1 Corinthians 3 and in other passages, writers of the epistles encourage Christians to choose to obey God. This is presented as a genuine choice, where choosing *not* to obey is a real possibility. But if Christians can choose to obey God or not, then Christians don’t necessarily consistently obey.
 
@@ -35,7 +39,15 @@ It’s important to acknowledge that the Bible *does* in fact state that all Chr
 
 Because of this, although fruit will be present in the life of every believer, the fruit **I** expect to find may not be.
 
-One objection is the idea that God would not save people and then leave them without significant life change. In a sense that’s true. The problem comes from when we decide what is or isn’t the appropriate amount of life change. The verses above show that God does save some people who at least at times live as carnal Christians. A root of the objection seems to be not seeing the blood of Christ as enough to cover the sins of a carnal Christian life. In this view, sins a person commits that are big enough are too big to be covered by the blood of Christ, but if those sins are small enough and the person’s obedience is big enough then those sins can be covered. The Biblical view, though, is that all sins are serious enough to warrant judgment, but that the blood of Christ is valuable enough to cover all sins. As a result of this perspective, the verses about carnal Christians can be read in a straightforward way without needing to find a way to reinterpret them.
+One objection is the idea that God would not save people and then leave them without significant life change. In a sense that’s true. The problem comes from when we decide what is or isn’t the appropriate amount of life change. The verses above show that God does save some people who at least at times live as carnal Christians. A root of the objection seems to be not seeing the blood of Christ as enough to cover the sins of a carnal Christian life. In this view, sins a person commits that are big enough are too big to be covered by the blood of Christ, but if those sins are small enough and the person’s obedience is big enough then those sins can be covered. The Biblical view, though, is that all sins are serious enough to warrant judgment, but that the blood of Christ is valuable enough to cover all sins. Luther writes:
+
+> First, a person must realize that he is a sinner, the kind of a sinner who is congenitally unable to do any good thing. "Whatsoever is not of faith, is sin.” Those who seek to earn the grace of God by their own efforts are trying to please God with sins.
+
+And again:
+
+> When you hear that such an enormous price was paid for you, will you still come along with your cowl, your shaven pate, your chastity, your obedience, your poverty, your works, your merits? What do you want with all these trappings? What good are the works of all men, and all the pains of the martyrs, in comparison with the pains of the Son of God dying on the Cross, so that there was not a drop of His precious blood, but it was all shed for your sins. If you could properly evaluate this incomparable price, you would throw all your ceremonies, vows, works, and merits into the ash can. What awful presumption to imagine that there is any work good enough to pacify God, when to pacify God required the invaluable price of the death and blood of His own and only Son?
+
+As a result of this perspective, the verses about carnal Christians can be read in a straightforward way without needing to find a way to reinterpret them.
 
 ## The Kind of Faith That Produces Works
 In addition to the Biblical evidence against the "faith-then" view, it suffers from internal contradictions as well.
