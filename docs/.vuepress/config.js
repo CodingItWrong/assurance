@@ -2,6 +2,9 @@ module.exports = {
   title: 'Assurance',
   themeConfig: {
     search: false,
-    sidebar: 'auto'
-  }
+    sidebar: [
+      ['/', 'Opposing Views'],
+      ['/luther', 'Luther'],
+    ],
+  },
 };
