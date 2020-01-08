@@ -20,8 +20,25 @@ As a result, this view can’t address the many verses that describe faith or be
 The “faith-including" view says that faith is indeed the one and only requirement for justification, but a certain *kind* of faith: a faith that includes repentance or obedience.
 The view is very similar to “faith-plus,” but because of how it defines faith, it avoids the problem of the “faith-plus” view of adding a second requirement for justification in addition to faith.
 
-One argument against this view is that the verses that only mention faith as the requirement of salvation also don’t include in the context the idea that that faith entails repentance and submission to Christ’s Lordship.
-One verse that makes this especially clear is Romans 4:4-5 —
+The first argument against the "faith-including" view is, again, the many verses that list belief as the only condition of salvation.
+Those who hold this view would say it handles these verses, because they *are* saying that only faith is required: true faith, that includes submission to Christ's lordship.
+But what matters is not that these folks can come up with a definition of "faith" that includes submission, but rather what definition of faith is used in these verses.
+And in many or all of them, "belief" simply means "belief."
+
+> "Most assuredly, I say to you, he who believes in Me has everlasting life." (John 6:47)
+>
+> What he really meant by these words—so we are told—is something like this:
+>
+> "Most assuredly, I say to you, he who *repents, believes, and submits totally to My will*, has everlasting life."
+>
+> In support of this obvious revision of the text, we are assured that all the additional ideas are contained implicitly within the word “believe.”
+> If only we understood the Biblical concept of “saving faith,” it is claimed, then we would see the validity of this way of understanding Jesus’ words.
+
+To the contrary, "belief" simply means "belief":
+
+> Let it be clearly stated here that English words like to “believe,” or “faith” function as fully adequate equivalents to their Greek counterparts. There is not some hidden residue of meaning in the Greek words that is not conveyed by their normal English renderings.
+
+Romans 4:4-5 takes this further, explicitly stating that works are excluded from faith:
 
 > Now to the one who works, his wage is not credited as a favor, but as what is due.
 > But to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness.
