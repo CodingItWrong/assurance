@@ -12,6 +12,7 @@ module.exports = {
       ['/', 'Assurance'],
       ['/opposing-views', 'Opposing Views'],
       ['/luther', 'Luther'],
+      ['/resources', 'Resources'],
     ],
   },
 };
