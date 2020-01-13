@@ -9,7 +9,8 @@ module.exports = {
   themeConfig: {
     search: false,
     sidebar: [
-      ['/', 'Opposing Views'],
+      ['/', 'Assurance'],
+      ['/opposing-views', 'Opposing Views'],
       ['/luther', 'Luther'],
     ],
   },
