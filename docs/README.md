@@ -66,6 +66,25 @@ and
 
 This is not to criticize those who are struggling with doubt. Instead, it is to say that to encourage people not to find assurance based on their faith is to encourage them to disbelieve the gospel.
 
+## The Jerusalem Council
+Acts 15 described a moment in early church history when the question arose of what aspects of the Law that Gentile believers needed to obey in order to be saved. Christian Pharisees were teaching that Gentiles needed to obey the whole Law of Moses, including circumcision.
+
+The decision of the council was *not only* that Gentiles were not required to be circumcised or follow kosher purity laws. Peter mentions only faith as the condition for God to save the Gentiles:
+
+> And God, who knows the heart, bore witness to them, by giving them the Holy Spirit just as he did to us, and he made no distinction between us and them, having cleansed their hearts by faith. (Acts 15:8-9)
+
+In the letter the council sent to churches, they did add a few additional prohibitions, but they did not say that those were necessary for salvation, only that "If you keep yourselves from these, you will do well" (Acts 15:29). These prohibitions were:
+
+- Don't eat food sacrificed to idols, with blood in it, or that has been strangled.
+- Don't participate in sexual immorality.
+
+These prohibitions related to the aspects of the Mosaic Law that were the most offensive to Jewish Christians' consciences, and so would make it the hardest for them to be able to be in community with Gentile Christians. They were a matter of fellowship, not of salvation.
+
+Effectively, the Gentile churches were asking "we've placed our faith in Jesus, is there anything else we need to be saved?"
+The answer was "nothing else to be saved, but if you will follow these few prohibitions this will make it easier for Jewish Christians."
+If there was any time that it was important to specify that salvation requires submission to Christ's lordship, or that you will need to obey the moral Law or you'll demonstrate that you aren't saved, this would be it.
+But this was not the message, because faith is the only requirement to be saved.
+
 ## Assurance as Motivation
 Assurance is a key part of Paul’s epistle structure: he usually lays out Christian doctrine, then states that because all those things are true of the readers, therefore they should obey. Obedience is not a condition of assurance, but instead assurance is the basis and motivation for obedience. We obey not so we know that we’re Christians, but instead because we already know that we are.
 
