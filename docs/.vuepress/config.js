@@ -11,6 +11,7 @@ module.exports = {
     sidebar: [
       ['/', 'Assurance'],
       ['/opposing-views', 'Opposing Views'],
+      ['/why-it-matters', 'Why It Matters'],
       ['/luther', 'Luther'],
       ['/resources', 'Resources'],
     ],
