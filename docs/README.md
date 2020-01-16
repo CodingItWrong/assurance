@@ -88,6 +88,18 @@ But this was not the message, because faith is the only requirement to be saved.
 ## Assurance as Motivation
 Assurance is a key part of Paul’s epistle structure: he usually lays out Christian doctrine, then states that because all those things are true of the readers, therefore they should obey. Obedience is not a condition of assurance, but instead assurance is the basis and motivation for obedience. We obey not so we know that we’re Christians, but instead because we already know that we are.
 
+Hodges gives several examples:
+
+> But you, brethren, are not in darkness, that this Day should overtake you as a thief.
+> *You are all sons of light and sons of the day.*
+> We are not of the night nor of darkness.
+> Therefore, let us not sleep, as others do, but let us watch and be sober (1 Thess 5:4-6, italics added).
+
+> “For you were once darkness, but now you are light in the Lord. Walk as children of light” (Eph 5:8).
+
+> Of His own will He brought us forth by the word of truth, that we might be a kind of firstfruits of His creatures.
+> *Therefore, my beloved brethren*, let every man be swift to hear, slow to speak, slow to wrath; for the wrath of man does not produce the righteousness of God (Jas 1:18-20, italics added).
+
 ## Sin is Possible
 God’s intent for believers is to obey him and live a holy life. But this doesn’t mean obedience is an additional condition for salvation in addition to faith, or that a certain level of obedience is guaranteed for everyone who believes.
 
