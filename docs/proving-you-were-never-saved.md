@@ -1,4 +1,4 @@
-# Alternate Views
+# Proving You Were Never Saved
 
 There is a view on Christian assurance of salvation that says “even though you’ve believed in Jesus, if you aren’t producing fruit, it shows that you were never really saved.”
 How exactly can this be?

@@ -10,7 +10,8 @@ module.exports = {
     search: false,
     sidebar: [
       ['/', 'Assurance'],
-      ['/opposing-views', 'Opposing Views'],
+      ['/loss-of-salvation', 'Loss of Salvation'],
+      ['/proving-you-were-never-saved', 'Proving You Were Never Saved'],
       ['/why-it-matters', 'Why It Matters'],
       ['/luther', 'Luther'],
       ['/resources', 'Resources'],
