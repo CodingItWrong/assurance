@@ -9,7 +9,7 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.5.4",
+    "@vuepress/plugin-google-analytics": "^1.6.0",
     "acorn": "^8.0.1",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
