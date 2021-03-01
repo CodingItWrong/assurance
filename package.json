@@ -13,6 +13,6 @@
     "acorn": "^8.0.5",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
-    "vuepress": "^1.8.0"
+    "vuepress": "^1.8.2"
   }
 }
