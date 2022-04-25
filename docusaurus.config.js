@@ -21,6 +21,10 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        gtag: {
+          trackingID: 'G-67DQKVN1P2',
+          anonymizeIP: true,
+        },
         docs: {
           path: 'notes',
           routeBasePath: 'notes',
