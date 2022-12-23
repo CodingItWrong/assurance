@@ -12,7 +12,7 @@ Quotations in this article come from [Theodore Graebner's translation](https://b
 
 Luther teaches that works and the Law should not come into faith or assurance at all.
 
-> When it come to the article of justification we must not yield, if we want to retain the truth of the Gospel.
+> When it come [sic] to the article of justification we must not yield, if we want to retain the truth of the Gospel.
 >
 > When the conscience is disturbed, do not seek advice from reason or from the Law, but rest your conscience in the grace of God and in His Word, and proceed as if you had never heard of the Law.
 > The Law has its place and its own good time.
